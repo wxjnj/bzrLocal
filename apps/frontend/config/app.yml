@@ -1,0 +1,23 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  static_page: false
+  is_memcached: false
+  max_list_page: 20
+  max_video_list_page: 12
+  max_question_list_page: 15
+  max_link_list_page: 20
+  max_expert_list_page: 3
+  search_list_page: 12
+  sf_crypto_captcha:
+    width: 85
+    height: 20
+    char_min_size: 12
+    char_max_size: 12
+    min_chars: 4                
+    max_chars: 4
+    refresh_image: '/sfCryptoCaptchaPlugin/images/reload_green_small.gif'
+    error_images_dir: '/plugins/sfCryptoCaptchaPlugin/media/error/'
+    

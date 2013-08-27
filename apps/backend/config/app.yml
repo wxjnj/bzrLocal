@@ -1,0 +1,25 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+#all:
+all:   
+  sf_guard_plugin:
+    routes_register: false
+    remember_cookie_name:         myAppRememberMe 
+  
+  max_apply_list_page: 30
+  max_list_page: 3
+  max_user_list_page: 30
+  
+  sf_guard_plugin_default_from_email: jsfnqyb@163.com
+  
+  sf_crypto_captcha:
+    width: 85
+    height: 25
+    char_min_size: 12
+    char_max_size: 12
+    min_chars: 4                
+    max_chars: 4
+    refresh_image: '/sfCryptoCaptchaPlugin/images/reload_green_small.gif'
+    error_images_dir: '/plugins/sfCryptoCaptchaPlugin/media/error/'

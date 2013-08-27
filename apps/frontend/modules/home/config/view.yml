@@ -1,0 +1,88 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+
+indexSuccess:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    #title:        symfony project
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  stylesheets:    [common.css,woman.css]
+
+  javascripts:    [jquery-1.7.2.min.js,foucs.js,public.js]
+
+  has_layout:     true
+  layout:         layout
+  
+subjectListSuccess:
+  stylesheets:    [common.css,woman.css,subjectList.css,scross.css]
+
+  javascripts:    [jquery-1.7.2.min.js,jquery.jcarousel.min.js,foucs.js,public.js,sorces.js]
+
+  has_layout:     true
+  layout:         layout
+  
+subjectList2Success:
+  stylesheets:    [common.css,woman.css,subjectList.css]
+
+  javascripts:    [jquery-1.7.2.min.js,foucs.js,public.js]
+
+  has_layout:     true
+  layout:         layout
+  
+loginFrameSuccess:
+  has_layout:     true
+  layout:         layoutFrame
+articleListSuccess:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    #title:        symfony project
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  stylesheets:    [common.css]
+
+  javascripts:    [jquery-1.7.2.min.js,jquery-ui.min.js,public.js]
+
+  has_layout:     true
+  layout:         layout
+articleKeywordListSuccess:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    #title:        symfony project
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  stylesheets:    [common.css]
+
+  javascripts:    [jquery-1.7.2.min.js,jquery-ui.min.js,public.js]
+
+  has_layout:     true
+  layout:         layout
+   
+searchSuccess:
+  stylesheets:    [common.css,search.css]
+error404Success:
+  stylesheets:    [common.css,search.css]
+disabledSuccess:
+  stylesheets:    [common.css,search.css]
+buildingSuccess:
+  stylesheets:    [common.css,search.css]
+
+  
+bottomSuccess:
+  stylesheets:    [common.css,aboutus.css]
+  javascripts:    [jquery-1.7.2.min.js,public.js]

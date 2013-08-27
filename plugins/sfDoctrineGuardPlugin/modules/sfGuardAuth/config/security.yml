@@ -1,0 +1,17 @@
+secure:
+  is_secure: false
+
+signin:
+  is_secure: false
+
+signout:
+  is_secure: false
+  
+bbsSignin:
+  is_secure: false
+  
+bbsFrontendSignin:
+  is_secure: false
+  
+frontendSignin:
+  is_secure: false

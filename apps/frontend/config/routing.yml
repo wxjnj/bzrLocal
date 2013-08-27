@@ -1,0 +1,142 @@
+nmore:
+  url: /nmore/*.html
+  param: { module: home, action: nmore}
+
+nshow:
+  url: /nshow/:token/*.html
+  param: { module: home, action: nshow}
+  
+show:
+  url: /show/:type/:id/*.html
+  param: { module: home, action: show}
+
+vmore:
+  url: /vmore/*.html
+  param: { module: home, action: vmore}
+  
+videoshow:
+  url: /videoshow/:token/*.html
+  param: { module: home, action: videoShow}
+  
+wmore:
+  url: /wmore/*.html
+  param: { module: home, action: wmore}
+
+workvideoshow:
+  url: /workvideoshow/:token/*.html
+  param: { module: home, action: workVideoShow}
+
+ajax_add_question:
+  url: /ajax_add_question
+  param: { module: home, action: ajaxAddQuestion}
+  
+smore:
+  url: /smore/*.html
+  param: { module: home, action: smore}
+
+shareshow:
+  url: /shareshow/:token/*.html
+  param: { module: home, action: shareshow}
+
+qmore:
+  url: /qmore/*.html
+  param: { module: home, action: qmore}
+
+qlist:
+  url: /qlist/:type/*.html
+  param: { module: home, action: qlist}
+  
+qshow:
+  url: /qshow/:token/*.html
+  param: { module: home, action: qshow}
+
+emore:
+  url: /emore/*.html
+  param: { module: home, action: emore}
+   
+eshow:
+  url: /eshow/:token/*.html
+  param: { module: home, action: eshow}
+
+introduce:
+  url: /introduce/*.html
+  param: { module: home, action: introduce}
+  
+apply:
+  url: /apply/*.html
+  param: { module: home, action: apply}
+
+ajax_add_apply:
+  url: /ajax_add_apply
+  param: { module: home, action: ajaxAddApply}
+    
+guide:
+  url: /guide/*.html
+  param: { module: home, action: guide}
+  
+document:
+  url: /document/*.html
+  param: { module: home, action: document}
+
+ashow:
+  url: /ashow/:token/*.html
+  param: { module: home, action: ashow}
+  
+add_need:
+  url: /add_need/*.html
+  param: { module: home, action: addNeed}
+
+ajax_add_need:
+  url: /ajax_add_need
+  param: { module: home, action: ajaxAddNeed}
+  
+needshow:
+  url: /needshow/*.html
+  param: { module: home, action: needShow}
+
+ajax_add_need_ans:
+  url: /ajax_add_need_ans
+  param: { module: home, action: ajaxAddNeedAns}
+  
+study:
+  url: /study/*.html
+  param: { module: home, action: study}
+
+study_help:
+  url: /study_help/*.html
+  param: { module: home, action: studyHelp}
+  
+study_search:
+  url: /study_search/*/study_search.html
+  param: { module: home, action: studySearch}
+
+ajax_add_document:
+  url: /ajax_add_document
+  param: { module: home, action: ajaxAddDocument}
+
+fshow:
+  url: /fshow/:token/*.html
+  param: { module: home, action: fshow}
+  
+download:
+  url: /download
+  param: { module: home, action: download}
+
+fmore:
+  url: /fmore/:token/*.html
+  param: { module: home, action: fmore }
+
+frecomm:
+  url: /frecomm
+  param: { module: home, action: frecomm }
+         
+homepage:
+  url:   /
+  param: { module: home, action: index }
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

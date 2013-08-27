@@ -1,0 +1,10 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/08-Security
+
+delete:
+  is_secure: true
+  credentials: ['管理']
+
+default:
+  is_secure: true
+  credentials: ['专家']

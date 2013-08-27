@@ -1,0 +1,4 @@
+captcha:
+  is_secure: false
+CaptchaDemo:
+  is_secure: false

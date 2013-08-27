@@ -1,0 +1,793 @@
+showStationMail:
+  url: /showStationMail/:id
+  param: { module: stationmail, action: showStationMail }
+
+stationmail:
+  url: /stationmail
+  param: { module: stationmail, action: index }
+  
+stationmail_edit:
+  url: /stationmail-edit/:id
+  param: { module: stationmail, action: edit}
+ 
+stationmail_new:
+  url: /stationmail-new
+  param: { module: stationmail, action: new}
+ 
+stationmail_delete:
+  url: /stationmail-delete/:title
+  param: { module: stationmail, action: delete}
+
+flash:
+  url: /flash-manager
+  param: { module: flash, action: index }
+  
+flash_edit:
+  url: /flash-edit/:id
+  param: { module: flash, action: edit}
+ 
+flash_new:
+  url: /flash-new/:keyword
+  param: { module: flash, action: new}
+ 
+flash_delete:
+  url: /flash-delete/:id
+  param: { module: flash, action: delete}
+
+statistic:
+  url: /statistic
+  param: { module: stati, action: index }
+  
+statistic_export:
+  url: /statistic_export
+  param: { module: stati, action: export }
+
+passwordModify:
+  url: /passwordModify
+  param: { module: user, action: passwordModify }
+
+ajax_batch_recover:
+  url: /ajax_batch_recover
+  param: { module: content, action: ajaxBatchRecover }
+
+ajax_batch_delete:
+  url: /ajax_batch_delete
+  param: { module: content, action: ajaxBatchDelete }
+
+ajax_batch_send:
+  url: /ajax_batch_send
+  param: { module: content, action: ajaxBatchSend }
+  
+ajax_batch_top:
+  url: /ajax_batch_top
+  param: { module: content, action: ajaxBatchTop }
+  
+ajax_batch_untop:
+  url: /ajax_batch_untop
+  param: { module: content, action: ajaxBatchUnTop }
+  
+ajax_batch_publish:
+  url: /ajax_batch_publish
+  param: { module: content, action: ajaxBatchPublish }
+  
+ajax_batch_unpublish:
+  url: /ajax_batch_unpublish
+  param: { module: content, action: ajaxBatchUnPublish }
+  
+ajax_batch_recycled:
+  url: /ajax_batch_recycled
+  param: { module: content, action: ajaxBatchRecycled }
+
+ajax_jieguo:
+  url: /ajax_jieguo
+  param: { module: questions, action: ajaxJieguo }
+
+content_preview:
+  url: /content-preview
+  param: { module: content, action: preview }
+  
+imglib:
+  url: /imglib
+  param: { module: imglib, action: index }
+  
+imglib_edit:
+  url: /imglib-edit/:id
+  param: { module: imglib, action: edit }
+
+imglib_update:
+  url: /imglib-update/:id
+  param: { module: imglib, aciton: update }
+  
+imglib_delete:
+  url: /imglib-delete/:id
+  param: { module: imglib, action: delete}
+
+popword:
+  url: /popword
+  param: { module: popword, action: index }
+  
+popword_ajax_order:
+  url: /popword_ajax_order
+  param: { module: popword, action: ajaxOrder}
+  
+popword_new:
+  url: /popword-new
+  param: { module: popword, action: new }
+  
+popword_create:
+  url: /popword-create
+  param: { module: popword, action: create }
+  
+popword_edit:
+  url: /popword-edit/:id
+  param: { module: popword, action: edit }
+  
+popword_update:
+  url: /popword-update
+  param: { module: popword, action: update }
+  
+popword_delete:
+  url: /popword-delete/:id
+  param: { module: popword, action: delete }
+
+dialogical:
+  url: /dialogical
+  param: { module: dialogical, action: index}
+  
+shetuan_dialogical:
+  url: /shetuan_dialogical
+  param: { module: dialogical, action: shetuanIndex}
+  
+dialogical_new:
+  url: /dialogical-new
+  param: { module: dialogical, action: new }
+  
+dialogical_create:
+  url: /dialogical-create
+  param: { module: dialogical, action: create }
+
+dialogical_reply:
+  url: /dialogical-reply/:token
+  param: { module: dialogical, action: reply }
+  
+shetuan_dialogical_reply:
+  url: /shetuan_dialogical_reply/:token
+  param: { module: dialogical, action: jReply }
+  
+dialogical_reply_update:
+  url: /dialogical-reply-update
+  param: { module: dialogical, action: replyUpdate }
+  
+shetuan_dialogical_reply_update:
+  url: /shetuan-dialogical-reply-update
+  param: { module: dialogical, action: jReplyUpdate }
+  
+dialogical_delete:
+  url: /dialogical-delete/:token
+  param: { module: dialogical, action: delete }
+  
+shetuan_dialogical_delete:
+  url: /shetuan-dialogical-delete/:token
+  param: { module: dialogical, action: jDelete }
+
+jyxc_delete:
+  url: /jyxc-delete/:token
+  param: { module: content, action: jyxcDelete}
+  
+jyxc_edit:
+  url: /jyxc-edit/:token
+  param: { module: content, action: jyxcEdit}
+  
+jyxc_update:
+  url: /jyxc-update
+  param: { module: content, action: jyxcUpdate}
+
+jianyanxiance:
+  url: /jyxc
+  param: { module: content, action: jyxcList}
+
+api_article:
+  url: /api/:token/artilce.:sf_format
+  param: { module: admin, action: api}
+  requirements:
+    sf_format: (?:xml|json)
+
+link:
+  url: /link/:keyword
+  param: { module: link, action: index, keyword: wenzi }
+  
+link_new:
+  url: /link-new/:keyword
+  param: { module: link, action: new }
+  
+link_create:
+  url: /link-create
+  param: { module: link, action: create }
+  
+link_edit:
+  url: /link-edit
+  param: { module: link, action: edit }
+  
+link_update:
+  url: /link-update
+  param: { module: link, action: update }
+  
+link_delete:
+  url: /link-delete
+  param: { module: link, action: delete }
+  
+link_ajax_order:
+  url: /link-ajax-order
+  param: { module: link, action: ajaxOrder}
+
+banner:
+  url: /banner-manager/:keyword
+  param: { module: banner, action: index , keyword: homepage}
+  
+banner_edit:
+  url: /banner-edit/:id
+  param: { module: banner, action: edit}
+ 
+banner_new:
+  url: /banner-new/:keyword
+  param: { module: banner, action: new}
+ 
+banner_delete:
+  url: /banner-delete/:id
+  param: { module: banner, action: delete}
+  
+banner_ajax_order:
+  url: /banner-ajax-order
+  param: { module: banner, action: ajaxOrder}
+ 
+tag:
+  url: /tag
+  param: { module: tag, action: index}
+ 
+tag_edit:
+  url: /tag-edit/:id
+  param: { module: tag, action: edit}
+  
+tag_delete:
+  url: /tag-delete/:id
+  param: { module: tag, action: delete}
+  
+link_delete:
+  url: /link-delete/:id
+  param: { module: link ,action: delete}    
+  
+questions:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Questions
+    module:               questions
+    prefix_path:          /questions
+    column:               id
+    with_wildcard_routes: true
+
+system:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                System
+    module:               sys
+    prefix_path:          /sys
+    column:               id
+    with_wildcard_routes: true
+
+syste_mmanager:
+  url: /system-manager
+  param: { module: systemmanager, action: index }
+
+system_manager_link:
+  url: /system-manager-link
+  param: { module: systemmanager, action: link }
+
+pic:
+  url: /picture/:type/type
+  param: { module: pic, action: index, type: 1}    
+
+pic_ajax_save_url_path:
+  url: /pic_ajax_save_url_path
+  param: { module: pic, action: ajaxSaveUrlPath }  
+pic_ajax_save_name:
+  url: /picture-ajax-save-name
+  param: { module: pic, action: ajaxSaveName }
+pic_ajax_upload_file:
+  url: /picture-ajax-upload-file
+  param: { module: pic, action: ajaxUploadFile}
+ 
+pic_ajax_search:
+  url: /pic_ajax_search
+  param: { module: pic ,action: ajaxSearch}
+  
+pic_ajax_remote_save:
+  url: /pic_ajax_remote_save
+  param: { module: pic, action: ajaxRemoteSave}
+    
+style:
+  url: /style
+  param: { module: admin, action: style}
+
+change_role:
+  url: /change-role
+  param: { module: admin, action: changeRole}    
+    
+message:
+  url: /message
+  param: { module: message, action: index }
+ 
+message_edit:
+  url: /message-edit/:id
+  param: { module: message, action: edit}
+  
+message_update:
+  url: /message-update
+  param: { module: message, action: update}
+  
+message_delete:
+  url: /message-delete/:id
+  param: { module: message, action: delete}
+  
+cache_manager:
+  url: /cache-manager
+  param: { module: cachemanager, action: index }
+cache_clear:
+  url: /cache_clear
+  param: { module: cachemanager, action: cacheClear }
+memcached_clear:
+  url: /memcached_clear
+  param: { module: cachemanager, action: memcachedClear }
+memcached_delete:
+  url: /memcached-delete/:key/:value
+  param: { module: cachemanager, action: memcachedDelete }
+html_clear:
+  url: /html_clear
+  param: { module: cachemanager, action: htmlClear }
+html_delete:
+  url: /html-delete/:file
+  param: { module: cachemanager, action: htmlDelete }
+    
+role:
+  class:   sfDoctrineRouteCollection
+  options: { model: Role }
+  
+role_delete:
+  url: /role_delete/:id
+  param: { module: role ,action: delete}
+  
+category_batch_process:
+  url: /category_batch_process/
+  param: { module: category, action: batchProcess }
+  
+category_pre_delete:
+  url: /category_pre_delete/:id
+  param: { module: category, action: preDelete }
+
+questions:
+  url:   /questions
+  param: { module: questions, action: index }
+  
+content_copy:
+  url:   /content-copy/*.html
+  param: { module: content, action: copy}
+  
+content:
+  url:   /content/:type/type
+  param: { module: content, action: index, type: 7}
+
+content_new:
+  url:   /content-new
+  param: { module: content, action: new }
+   
+content_progress:
+  url: /content-progress/:id
+  param: { module: content, action: progress}
+  
+content_recycled:
+  url:   /content_recycled/*.html
+  param: { module: content, action: recycled }
+
+content_recover:
+  url:   /content_recover/:id
+  param: { module: content, action: recover }
+
+content_delete:
+  url:   /content_delete/:id
+  param: { module: content, action: delete }
+  
+content_send:
+  url:  /content_send/:id
+  param: { module: content , action: send }
+  
+content_publish:
+  url: /content-publish/:id
+  param: { module: content , action: publish }
+
+content_back:
+  url:  /content_back
+  param: { module: content , action: back }
+  
+content_comment:
+  url: /content-commment/:id
+  param: { module: content, action: comment}
+  
+content_message:
+  url: /content-message/:id
+  param: { module: content, action: message }
+  
+content_tag_new:
+  url: /content-tag-new
+  param: { module: content, action: tagNew}
+
+content_tag_new2:
+  url: /content-tag-new2
+  param: { module: content, action: tagNew2}
+  
+content_set_tag:
+  url: /content-set-tag
+  param: { module: content, action: setTag}
+ 
+content_set_tag2:
+  url: /content-set-tag2
+  param: { module: content, action: setTag2}
+  
+user:
+  url:  /user/:type/type
+  param: { module: user, action: index}  
+    
+user_active:
+  url: /user-active/:id.html
+  param: { module: user, action: active}
+  
+user_delete:
+  url:  /user-delete/:id
+  param: { module: user, action: delete} 
+
+sf_guard_signin:
+  url:   /login
+  param: { module: sfGuardAuth, action: signin }
+
+sf_guard_signout:
+  url:   /logout
+  param: { module: sfGuardAuth, action: signout }
+
+sf_guard_password:
+  url:   /request_password
+  param: { module: sfGuardAuth, action: password }
+  
+liuyan:
+  url:   /liuyan/:id
+  param: { module: subject, action: liuyan }
+  
+liuyan_search:
+  url:   /liuyanSearch
+  param: { module: subject, action: liuyanSearch }
+  
+liuyan_delete:
+  url:   /liuyanDelete/:id
+  param: { module: subject, action: liuyanDelete }
+  
+liuyanBatchDelete:
+  url:   /liuyanBatchDelete
+  param: { module: subject, action: liuyanBatchDelete }
+  
+liuyanBatchDisplay:
+  url:   /liuyanBatchDisplay
+  param: { module: subject, action: liuyanBatchDisplay }
+  
+liuyanBatchDisplayNone:
+  url:   /liuyanBatchDisplayNone
+  param: { module: subject, action: liuyanBatchDisplayNone }
+
+
+apply:
+  url:   /apply
+  param: { module: apply, action: index }  
+apply_delete:
+  url:   /apply_delete/:id
+  param: { module: apply, action: delete } 
+  
+question:
+  url:   /question
+  param: { module: question, action: index } 
+question_edit:
+  url:   /question_edit/:id
+  param: { module: question, action: edit }  
+question_delete:
+  url:   /question_delete/:id
+  param: { module: question, action: delete }
+    
+videoLocalSearch: 
+  url: /videoLocalSearch
+  param: { module: video, action: localSearch }
+
+video:
+  url: /video
+  param: { module: video, action: index}
+video_new:
+  url: /video_new.html
+  param: { module: video, action: new }
+video_edit:
+  url: /video_edit/:id
+  param: { module: video, action: edit }
+video_delete:
+  url: /video_delete/:id/*.html
+  param: { module: video, action: delete }
+
+notice:
+  url: /notice
+  param: { module: notice, action: index}
+notice_new:
+  url: /notice_new.html
+  param: { module: notice, action: new }
+notice_edit:
+  url: /notice_edit/:id
+  param: { module: notice, action: edit }
+notice_delete:
+  url: /notice_delete/:id/*.html
+  param: { module: notice, action: delete }
+  
+share:
+  url: /share
+  param: { module: share, action: index}
+share_new:
+  url: /share_new.html
+  param: { module: share, action: new }
+share_edit:
+  url: /share_edit/:id
+  param: { module: share, action: edit }
+share_delete:
+  url: /share_delete/:id/*.html
+  param: { module: share, action: delete }
+share_rank:
+  url: /share_rank
+  param: { module: share, action: rank }
+share_unrank:
+  url: /share_unrank
+  param: { module: share, action: unRank }
+myshare:
+  url: /myshare
+  param: { module: share, action: myshare }
+    
+expert:
+  url: /expert
+  param: { module: expert, action: index}
+expert_new:
+  url: /expert_new.html
+  param: { module: expert, action: new }
+expert_edit:
+  url: /expert_edit/:id
+  param: { module: expert, action: edit }
+expert_delete:
+  url: /expert_delete/:id/*.html
+  param: { module: expert, action: delete }
+
+category:
+  url: /category
+  param: { module: category, action: index}
+category_new:
+  url: /category_new.html
+  param: { module: category, action: new }
+category_edit:
+  url: /category_edit/:id
+  param: { module: category, action: edit }
+category_delete:
+  url: /category_delete/:id/*.html
+  param: { module: category, action: delete }
+
+file:
+  url: /file
+  param: { module: file, action: index}
+file_new:
+  url: /file_new.html
+  param: { module: file, action: new }
+file_edit:
+  url: /file_edit/:id
+  param: { module: file, action: edit }
+file_delete:
+  url: /file_delete/:id/*.html
+  param: { module: file, action: delete }
+my_file:
+  url: /my_file/*.html
+  param: { module: file, action: myFile }
+file_rank:
+  url: /file_rank
+  param: { module: file, action: rank }
+file_unrank:
+  url: /file_unrank
+  param: { module: file, action: unRank }
+    
+need:
+  url: /need
+  param: { module: need, action: index}
+need_new:
+  url: /need_new.html
+  param: { module: need, action: new }
+need_edit:
+  url: /need_edit/:id
+  param: { module: need, action: edit }
+need_delete:
+  url: /need_delete/:id/*.html
+  param: { module: need, action: delete }
+my_need_add:
+  url: /my_need_add/*.html
+  param: { module: need, action: myAdd }
+my_need_answer:
+  url: /my_need_answer/*.html
+  param: { module: need, action: myAnswer }
+
+activity:
+  url: /activity
+  param: { module: activity, action: index}
+activity_new:
+  url: /activity_new.html
+  param: { module: activity, action: new }
+activity_edit:
+  url: /activity_edit/:id
+  param: { module: activity, action: edit }
+activity_delete:
+  url: /activity_delete/:id/*.html
+  param: { module: activity, action: delete }
+
+work:
+  url: /work
+  param: { module: work, action: index}
+work_new:
+  url: /work_new/*.html
+  param: { module: work, action: new }
+work_edit:
+  url: /work_edit/:id
+  param: { module: work, action: edit }
+work_delete:
+  url: /work_delete/:id/*.html
+  param: { module: work, action: delete }
+
+job:
+  url: /job/*.html
+  param: { module: job, action: index}
+job_new:
+  url: /job_new/*.html
+  param: { module: job, action: new }
+job_edit:
+  url: /job_edit/:id
+  param: { module: job, action: edit }
+job_delete:
+  url: /job_delete/:id/*.html
+  param: { module: job, action: delete }
+job_view:
+  url: /job_view/:token/*.html
+  param: { module: job, action: view }
+myjob:
+  url: /myjob
+  param: { module: job, action: myjob}
+  
+images:
+  url: /images
+  param: { module: images, action: index}
+images_new:
+  url: /images_new.html
+  param: { module: images, action: new }
+images_edit:
+  url: /images_edit/:id
+  param: { module: images, action: edit }
+images_delete:
+  url: /images_delete/:id/*.html
+  param: { module: images, action: delete }
+  
+link:
+  url: /link
+  param: { module: link, action: index}
+link_new:
+  url: /link_new.html
+  param: { module: link, action: new }
+link_edit:
+  url: /link_edit/:id
+  param: { module: link, action: edit }
+link_delete:
+  url: /link_delete/:id/*.html
+  param: { module: link, action: delete }
+         
+topic:
+  url: /topic
+  param: { module: topic, action: index}
+topic_new:
+  url: /topic_new.html
+  param: { module: topic, action: new }
+topic_edit:
+  url: /topic_edit/:id
+  param: { module: topic, action: edit }
+topic_delete:
+  url: /topic_delete/:id/*.html
+  param: { module: topic, action: delete }
+
+case:
+  url: /case
+  param: { module: case, action: index}
+case_new:
+  url: /case_new.html
+  param: { module: case, action: new }
+case_edit:
+  url: /case_edit/:id
+  param: { module: case, action: edit }
+case_delete:
+  url: /case_delete/:id/*.html
+  param: { module: case, action: delete }
+
+ans:
+  url: /ans
+  param: { module: ans, action: index}
+ans_new:
+  url: /ans_new.html
+  param: { module: ans, action: new }
+ans_edit:
+  url: /ans_edit/:id
+  param: { module: ans, action: edit }
+ans_delete:
+  url: /ans_delete/:id/*.html
+  param: { module: ans, action: delete }
+settrue:
+  url: /settrue/:token/*.html
+  param: { module: ans, action: settrue }
+      
+role:
+  url: /role
+  param: { module: user_group, action: index}
+  
+permission:
+  url: /permission
+  param: { module: permission, action: index}
+  
+advertising:
+  url: /advertising
+  param: { module: advertising, action: index}
+advertising_new:
+  url: /advertising_new.html
+  param: { module: advertising, action: new }
+advertising_edit:
+  url: /advertising_edit/:id
+  param: { module: advertising, action: edit }
+advertising_delete:
+  url: /advertising_delete/:id/*.html
+  param: { module: advertising, action: delete }
+  
+myquestion:
+  url:   /myquestion
+  param: { module: question, action: myquestion }
+  
+myclasses:
+  url:   /myclasses
+  param: { module: classes, action: index }
+myclasses_new:
+  url: /myclasses_new.html
+  param: { module: classes, action: new }
+myclasses_edit:
+  url: /myclasses_edit/:id
+  param: { module: classes, action: edit }
+myclasses_delete:
+  url: /myclasses_delete/:id/*.html
+  param: { module: classes, action: delete }
+  
+mywork:
+  url:   /mywork
+  param: { module: work, action: mywork } 
+       
+pager:
+  url: /:module/:action/*/:page.html
+pager2:
+  url: /:module/:action/*
+      
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: admin, action: index}
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*
