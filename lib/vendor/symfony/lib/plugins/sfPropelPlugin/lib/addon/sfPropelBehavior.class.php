@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage propel
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPropelBehavior.class.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version    SVN: $Id: sfPropelBehavior.class.php 12809 2008-11-09 09:14:58Z fabien $
  */
 class sfPropelBehavior
 {

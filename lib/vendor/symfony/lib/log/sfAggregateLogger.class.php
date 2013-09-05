@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage log
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfAggregateLogger.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfAggregateLogger.class.php 14603 2009-01-11 10:35:17Z dwhittle $
  */
 class sfAggregateLogger extends sfLogger
 {

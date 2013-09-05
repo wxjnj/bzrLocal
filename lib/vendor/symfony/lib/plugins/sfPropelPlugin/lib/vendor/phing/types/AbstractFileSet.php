@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: AbstractFileSet.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: AbstractFileSet.php 144 2007-02-05 15:19:00Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -62,7 +62,7 @@ include_once 'phing/util/DirectoryScanner.php';
  *
  * @author    Andreas Aderhold <andi@binarycloud.com>
  * @author    Hans Lellelid <hans@xmpl.org>
- * @version    $Revision: 1.1 $ $Date: 2012/05/04 06:47:42 $
+ * @version    $Revision: 1.15 $ $Date: 2007-02-05 16:19:00 +0100 (Mon, 05 Feb 2007) $
  * @see        ProjectComponent
  * @package    phing.types
  */

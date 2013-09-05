@@ -16,7 +16,7 @@ require_once 'propel/engine/database/model/Behavior.php';
  * @package     sfPropelPlugin
  * @subpackage  behavior
  * @author      Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version     SVN: $Id: SfPropelBehaviorBase.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version     SVN: $Id: SfPropelBehaviorBase.php 23310 2009-10-24 15:27:41Z Kris.Wallsmith $
  */
 abstract class SfPropelBehaviorBase extends Behavior
 {

@@ -8,7 +8,7 @@
  * @package    symfony12
  * @subpackage model
  * @author     Your name here
- * @version    SVN: $Id: BlogAuthor.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: BlogAuthor.class.php 23668 2009-11-07 12:51:07Z Kris.Wallsmith $
  */
 class BlogAuthor extends BaseBlogAuthor
 {

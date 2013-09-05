@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Utf8.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ *  $Id$
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -29,7 +29,7 @@
  * @subpackage  Search
  * @author      Brice Figureau <brice+doctrine@daysofwonder.com>
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @version     $Revision: 1.1 $
+ * @version     $Revision$
  * @link        www.doctrine-project.org
  * @since       1.0
  */

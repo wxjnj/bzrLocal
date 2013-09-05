@@ -5,7 +5,7 @@
  *
  * @package    form
  * @subpackage attachment
- * @version    SVN: $Id: AttachmentForm.class.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version    SVN: $Id: AttachmentForm.class.php 24068 2009-11-17 06:39:35Z Kris.Wallsmith $
  */
 class AttachmentForm extends BaseAttachmentForm
 {

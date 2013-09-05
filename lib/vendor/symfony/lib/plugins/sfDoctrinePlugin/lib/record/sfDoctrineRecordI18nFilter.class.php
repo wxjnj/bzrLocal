@@ -15,7 +15,7 @@
  * @package    symfony
  * @subpackage doctrine
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineRecordI18nFilter.class.php,v 1.1 2012/05/04 06:47:45 zhaoy Exp $
+ * @version    SVN: $Id: sfDoctrineRecordI18nFilter.class.php 24337 2009-11-24 14:37:03Z Kris.Wallsmith $
  */
 class sfDoctrineRecordI18nFilter extends Doctrine_Record_Filter
 {

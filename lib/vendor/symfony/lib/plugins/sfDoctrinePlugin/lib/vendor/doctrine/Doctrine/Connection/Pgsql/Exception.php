@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Exception.php,v 1.1 2012/05/04 06:47:25 zhaoy Exp $
+ *  $Id: Exception.php 7490 2010-03-29 19:53:27Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -30,7 +30,7 @@
  * @author      Paul Cooper <pgc@ucecom.com> (PEAR MDB2 Pgsql driver)
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7490 $
  */
 class Doctrine_Connection_Pgsql_Exception extends Doctrine_Connection_Exception
 {

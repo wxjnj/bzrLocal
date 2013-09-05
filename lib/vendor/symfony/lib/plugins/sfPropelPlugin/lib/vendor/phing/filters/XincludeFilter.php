@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: XincludeFilter.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: XincludeFilter.php,v 1.16 2005/12/07 20:05:01 hlellelid Exp $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -29,7 +29,7 @@ include_once 'phing/filters/ChainableReader.php';
  * Uses PHP DOM XML support
  * 
  * @author    Bill Karwin <bill@karwin.com>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.16 $
  * @see       FilterReader
  * @package   phing.filters
  */

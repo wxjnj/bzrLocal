@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: Condition.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ *  $Id: Condition.php 325 2007-12-20 15:44:58Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@
  * Each condition must implement a method applying to this prototye:
  *
  * @author Hans Lellelid <hans@xmpl.org>
- * @version $Revision: 1.1 $
+ * @version $Revision: 1.4 $
  * @package phing.tasks.system.condition
  */
 interface Condition {

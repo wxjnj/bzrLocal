@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: BasePeer.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ *  $Id: BasePeer.php 1608 2010-03-15 23:09:22Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -35,7 +35,7 @@
  * @author     John D. McNally <jmcnally@collab.net> (Torque)
  * @author     Brett McLaughlin <bmclaugh@algx.net> (Torque)
  * @author     Stephen Haberman <stephenh@chase3000.com> (Torque)
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1608 $
  * @package    propel.util
  */
 class BasePeer

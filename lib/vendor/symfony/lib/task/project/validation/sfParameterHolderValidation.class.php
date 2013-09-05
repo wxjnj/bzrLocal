@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfParameterHolderValidation.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfParameterHolderValidation.class.php 25411 2009-12-15 15:31:29Z fabien $
  */
 class sfParameterHolderValidation extends sfValidation
 {

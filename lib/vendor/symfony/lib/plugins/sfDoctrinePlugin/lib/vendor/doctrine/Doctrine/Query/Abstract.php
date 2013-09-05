@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Abstract.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: Query.php 1393 2007-05-19 17:49:16Z zYne $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 1393 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @todo        See {@link Doctrine_Query}
  */

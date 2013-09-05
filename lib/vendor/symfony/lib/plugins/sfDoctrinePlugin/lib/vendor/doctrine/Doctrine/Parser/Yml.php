@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Yml.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ *  $Id: Yml.php 1080 2007-02-10 18:17:08Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 1080 $
  * @author      Jonathan H. Wage <jwage@mac.com>, Thomas Courbon <harthie@yahoo.fr>
  */
 class Doctrine_Parser_Yml extends Doctrine_Parser

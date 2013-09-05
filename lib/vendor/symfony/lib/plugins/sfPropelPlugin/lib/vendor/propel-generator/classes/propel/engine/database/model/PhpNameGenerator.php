@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: PhpNameGenerator.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ *  $Id: PhpNameGenerator.php 1514 2010-02-02 20:30:58Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -28,7 +28,7 @@ include_once 'propel/engine/database/model/NameGenerator.php';
  * @author     Daniel Rall <dlr@finemaltcoding.com> (Torque)
  * @author     Byron Foster <byron_foster@yahoo.com> (Torque)
  * @author     Bernd Goldschmidt <bgoldschmidt@rapidsoft.de>
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1514 $
  * @package    propel.engine.database.model
  */
 class PhpNameGenerator implements NameGenerator {

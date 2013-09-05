@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Statement.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ *  $Id: Statement.php 1532 2007-05-31 17:45:07Z zYne $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -28,7 +28,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 1532 $
  */
 class Doctrine_Connection_Statement implements Doctrine_Adapter_Statement_Interface
 {

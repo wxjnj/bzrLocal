@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: TabToSpaces.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $  
+ *  $Id: TabToSpaces.php 325 2007-12-20 15:44:58Z hans $  
  * 
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -38,7 +38,7 @@ require_once 'phing/filters/ChainableReader.php';
  *
  * @author    Yannick Lecaillez <yl@seasonfive.com>
  * @author    Hans Lellelid <hans@xmpl.org>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.9 $
  * @see       BaseParamFilterReader
  * @package   phing.filters
  */

@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage test
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfTestFunctional.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfTestFunctional.class.php 23937 2009-11-14 17:43:12Z fabien $
  */
 class sfTestFunctional extends sfTestFunctionalBase
 {

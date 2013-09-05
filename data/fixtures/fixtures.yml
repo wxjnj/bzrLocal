@@ -1,0 +1,38 @@
+# # Populate this file with data to be loaded by your ORM's *:data-load task.
+# # You can create multiple files in this directory (i.e. 010_users.yml,
+# # 020_articles.yml, etc) which will be loaded in alphabetical order.
+# # 
+# # See documentation for your ORM's *:data-load task for more information.
+# 
+# User:
+#   fabien:
+#     username: fabien
+#     password: changeme
+#     name:     Fabien Potencier
+#     email:    fabien.potencier@symfony-project.com
+#   kris:
+#     username: Kris.Wallsmith
+#     password: changeme
+#     name:     Kris Wallsmith
+#     email:    kris.wallsmith@symfony-project.com
+
+
+Client:
+  client_pete:
+    name:      Pete's Pet Shop
+    subdomain: pete
+  client_pub:
+    name:      City Pub and Grill
+    subdomain: citypub
+ 
+Page:
+  page_pete_location_hours:
+    title:     Location and Hours | Pete's Pet Shop
+    content:   We're open Mon - Sat, 8 am - 7pm
+    slug:      location
+    Client:    client_pete
+  page_pub_menu:
+    title:     City Pub And Grill | Menu
+    content:   Our menu consists of fish, Steak, salads, and more.
+    slug:      menu
+    Client:    client_pub

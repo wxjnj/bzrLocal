@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: PropelSchemaReverseTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: PropelSchemaReverseTask.php 945 2008-01-30 02:14:46Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -29,7 +29,7 @@ include_once 'propel/engine/database/model/PropelTypes.php';
  * the database metadata.
  *
  * @author     Hans Lellelid <hans@xmpl.org>
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 945 $
  * @package    propel.phing
  */
 class PropelSchemaReverseTask extends PDOTask {

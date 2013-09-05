@@ -18,7 +18,7 @@
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
  * @author     Dustin Whittle <dustin.whittle@symfony-project.com>
- * @version    SVN: $Id: sfPDODatabase.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfPDODatabase.class.php 33486 2012-07-09 08:57:29Z fabien $
  */
 class sfPDODatabase extends sfDatabase
 {
@@ -109,6 +109,6 @@ class sfPDODatabase extends sfDatabase
    */
   public function __call($method, $arguments)
   {
-    return $this->getConnection()->$method($arguments);
+    return call_user_func_array(array($this->getConnection(), $method), $arguments);
   }
 }

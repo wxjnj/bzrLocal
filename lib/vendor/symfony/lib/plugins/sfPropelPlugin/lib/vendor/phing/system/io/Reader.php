@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Reader.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: Reader.php 227 2007-08-28 02:17:00Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -24,7 +24,7 @@
  * 
  * @author Hans Lellelid <hans@xmpl.org>
  * @author Yannick Lecaillez <yl@seasonfive.com>
- * @version $Revision: 1.1 $
+ * @version $Revision: 1.5 $
  * @package phing.system.io
  */
 abstract class Reader {

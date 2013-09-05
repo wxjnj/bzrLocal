@@ -1,7 +1,7 @@
 <?php
 
 /*
-*  $Id: DBMSSQL.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+*  $Id: DBMSSQL.php 1262 2009-10-26 20:54:39Z francois $
 *
 * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -24,7 +24,7 @@
  * This is used to connect to a MSSQL database.
  *
  * @author     Hans Lellelid <hans@xmpl.org> (Propel)
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel.adapter
  */
 class DBMSSQL extends DBAdapter {

@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage generator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfGenerator.class.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version    SVN: $Id: sfGenerator.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 abstract class sfGenerator
 {

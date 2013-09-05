@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage command
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfCommandManager.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * @version    SVN: $Id: sfCommandManager.class.php 21908 2009-09-11 12:06:21Z fabien $
  */
 class sfCommandManager
 {

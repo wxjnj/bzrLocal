@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Sqlite.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ *  $Id: Sqlite.php 7644 2010-06-08 15:12:02Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -25,7 +25,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7644 $
  * @link        www.doctrine-project.org
  * @since       1.0
  */

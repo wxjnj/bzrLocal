@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: DBMySQL.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ *  $Id: DBMySQL.php 1262 2009-10-26 20:54:39Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @author     Jon S. Stevens <jon@clearink.com> (Torque)
  * @author     Brett McLaughlin <bmclaugh@algx.net> (Torque)
  * @author     Daniel Rall <dlr@finemaltcoding.com> (Torque)
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel.adapter
  */
 class DBMySQL extends DBAdapter {

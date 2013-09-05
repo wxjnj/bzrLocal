@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage exception
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfCommandException.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * @version    SVN: $Id: sfCommandException.class.php 4743 2007-07-30 10:21:06Z fabien $
  */
 class sfCommandException extends sfException
 {

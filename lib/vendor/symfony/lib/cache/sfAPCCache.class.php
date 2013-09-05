@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage cache
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfAPCCache.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfAPCCache.class.php 21990 2009-09-13 21:09:18Z FabianLange $
  */
 class sfAPCCache extends sfCache
 {

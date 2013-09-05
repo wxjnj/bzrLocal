@@ -12,7 +12,7 @@
  * @package    symfony
  * @subpackage i18n
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfI18nModuleExtract.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfI18nModuleExtract.class.php 31248 2010-10-26 13:54:12Z fabien $
  */
 class sfI18nModuleExtract extends sfI18nExtract
 {

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * $Id: TypeSelector.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * $Id: TypeSelector.php 123 2006-09-14 20:19:08Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@ require_once 'phing/types/selectors/BaseExtendSelector.php';
  * 
  * @author    Hans Lellelid <hans@xmpl.org> (Phing)
  * @author    Jeff Turner <jefft@apache.org> (Ant)
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.3 $
  * @package   phing.types.selectors
  */
 class TypeSelector extends BaseExtendSelector {

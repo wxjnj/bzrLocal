@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: Properties.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ *  $Id: Properties.php 325 2007-12-20 15:44:58Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -30,7 +30,7 @@ include_once 'phing/system/io/FileWriter.php';
  *        - Add support for arrays (separated by ',')
  *
  * @package    phing.system.util
- * @version $Revision: 1.1 $
+ * @version $Revision: 1.13 $
  */
 class Properties {
 

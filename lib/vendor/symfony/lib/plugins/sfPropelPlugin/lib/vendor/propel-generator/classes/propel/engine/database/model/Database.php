@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: Database.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ *  $Id: Database.php 1262 2009-10-26 20:54:39Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -36,7 +36,7 @@ include_once 'propel/engine/database/model/Behavior.php';
  * @author     Martin Poeschl<mpoeschl@marmot.at> (Torque)
  * @author     Daniel Rall<dlr@collab.net> (Torque)
  * @author     Byron Foster <byron_foster@yahoo.com> (Torque)
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel.engine.database.model
  */
 class Database extends XMLElement {

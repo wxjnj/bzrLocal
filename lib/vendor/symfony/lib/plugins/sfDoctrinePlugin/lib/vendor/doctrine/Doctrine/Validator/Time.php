@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Time.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ *  $Id: Time.php 3884 2008-02-22 18:26:35Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 3884 $
  * @author      Mark Pearson <mark.pearson0@googlemail.com>
  */
 class Doctrine_Validator_Time extends Doctrine_Validator_Driver

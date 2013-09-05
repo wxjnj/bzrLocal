@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: XmlToDataSQL.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ *  $Id: XmlToDataSQL.php 1262 2009-10-26 20:54:39Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@ require_once 'phing/parser/AbstractHandler.php';
  * A Class that is used to parse an data dump XML file and create SQL using a DataSQLBuilder class.
  *
  * @author     Hans Lellelid <hans@xmpl.org> (Propel)
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel.engine.database.transform
  */
 class XmlToDataSQL extends AbstractHandler {

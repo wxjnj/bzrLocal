@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Exception.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ *  $Id: Exception.php 2702 2007-10-03 21:43:22Z Jonathan.Wage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 2702 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  */
 class Doctrine_Query_Tokenizer_Exception extends Doctrine_Exception

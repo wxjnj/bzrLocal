@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: PearPackage2Task.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: PearPackage2Task.php 210 2007-08-01 22:48:36Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -85,7 +85,7 @@ require_once 'phing/tasks/ext/PearPackageTask.php';
  * @author   Stuart Binge <stuart.binge@complinet.com>
  * @author   Hans Lellelid <hans@xmpl.org>
  * @package  phing.tasks.ext
- * @version  $Revision: 1.1 $
+ * @version  $Revision: 1.9 $
  */
 class PearPackage2Task extends PearPackageTask {
 

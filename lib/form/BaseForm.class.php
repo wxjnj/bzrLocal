@@ -3,10 +3,10 @@
 /**
  * Base project form.
  * 
- * @package    nxetd
+ * @package    symfonyStudy
  * @subpackage form
  * @author     Your name here 
- * @version    SVN: $Id: BaseForm.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: BaseForm.class.php 20147 2009-07-13 11:46:57Z FabianLange $
  */
 class BaseForm extends sfFormSymfony
 {

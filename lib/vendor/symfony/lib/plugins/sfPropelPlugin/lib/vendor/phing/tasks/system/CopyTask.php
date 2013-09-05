@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: CopyTask.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: CopyTask.php 235 2007-09-05 18:42:02Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -33,7 +33,7 @@ include_once 'phing/mappers/FlattenMapper.php';
  * exist. It is possible to explictly overwrite existing files.
  *
  * @author   Andreas Aderhold, andi@binarycloud.com
- * @version  $Revision: 1.1 $ $Date: 2012/05/04 06:47:26 $
+ * @version  $Revision: 1.16 $ $Date: 2007-09-05 20:42:02 +0200 (Wed, 05 Sep 2007) $
  * @package  phing.tasks.system
  */
 class CopyTask extends Task {

@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Mysql.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: Mysql.php 7635 2010-06-08 13:56:17Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -25,7 +25,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7635 $
  * @link        www.doctrine-project.org
  * @since       1.0
  */

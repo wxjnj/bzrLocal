@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Forupdate.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: Where.php 1352 2007-05-15 10:07:05Z zYne $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 1352 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  */
 class Doctrine_Query_Forupdate extends Doctrine_Query_Part

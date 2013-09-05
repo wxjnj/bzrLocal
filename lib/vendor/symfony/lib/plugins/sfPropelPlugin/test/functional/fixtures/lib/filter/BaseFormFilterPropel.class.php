@@ -6,7 +6,7 @@
  * @package    ##PROJECT_NAME##
  * @subpackage filter
  * @author     Your name here
- * @version    SVN: $Id: BaseFormFilterPropel.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: BaseFormFilterPropel.class.php 23306 2009-10-24 13:59:13Z Kris.Wallsmith $
  */
 abstract class BaseFormFilterPropel extends sfFormFilterPropel
 {

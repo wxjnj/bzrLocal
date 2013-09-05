@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage debug
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfWebDebugPanelMemory.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfWebDebugPanelMemory.class.php 21069 2009-08-11 23:28:20Z Kris.Wallsmith $
  */
 class sfWebDebugPanelMemory extends sfWebDebugPanel
 {

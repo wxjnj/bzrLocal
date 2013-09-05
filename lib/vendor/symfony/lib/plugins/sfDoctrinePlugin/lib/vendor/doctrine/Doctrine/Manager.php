@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Manager.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: Manager.php 7657 2010-06-08 17:57:01Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -29,7 +29,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7657 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  */
 class Doctrine_Manager extends Doctrine_Configurable implements Countable, IteratorAggregate

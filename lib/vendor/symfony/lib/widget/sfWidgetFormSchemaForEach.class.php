@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage widget
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfWidgetFormSchemaForEach.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfWidgetFormSchemaForEach.class.php 9046 2008-05-19 08:13:51Z FabianLange $
  */
 class sfWidgetFormSchemaForEach extends sfWidgetFormSchema
 {

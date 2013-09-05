@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfCommandApplicationTask.class.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version    SVN: $Id: sfCommandApplicationTask.class.php 23651 2009-11-06 08:08:54Z fabien $
  */
 abstract class sfCommandApplicationTask extends sfTask
 {

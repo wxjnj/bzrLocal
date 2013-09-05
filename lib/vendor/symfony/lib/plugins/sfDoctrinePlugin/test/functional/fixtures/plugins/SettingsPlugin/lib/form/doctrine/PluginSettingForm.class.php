@@ -6,7 +6,7 @@
  * @package    ##PROJECT_NAME##
  * @subpackage form
  * @author     ##AUTHOR_NAME##
- * @version    SVN: $Id: PluginSettingForm.class.php,v 1.1 2012/05/04 06:47:45 zhaoy Exp $
+ * @version    SVN: $Id: PluginSettingForm.class.php 28974 2010-04-04 22:59:54Z Kris.Wallsmith $
  */
 abstract class PluginSettingForm extends BaseSettingForm
 {

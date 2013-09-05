@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage log
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfFileLogger.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfFileLogger.class.php 10964 2008-08-19 18:33:50Z fabien $
  */
 class sfFileLogger extends sfLogger
 {

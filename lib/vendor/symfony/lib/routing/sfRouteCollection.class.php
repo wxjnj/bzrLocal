@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage routing
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfRouteCollection.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfRouteCollection.class.php 29491 2010-05-17 13:10:55Z fabien $
  */
 class sfRouteCollection implements Iterator
 {

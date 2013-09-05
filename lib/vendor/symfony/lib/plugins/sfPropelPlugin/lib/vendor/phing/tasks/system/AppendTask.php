@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: AppendTask.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $  
+ *  $Id: AppendTask.php 144 2007-02-05 15:19:00Z hans $  
  * 
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -48,7 +48,7 @@ include_once 'phing/types/FileSet.php';
  * </append>
  * </code>
  * @package phing.tasks.system
- * @version $Revision: 1.1 $
+ * @version $Revision: 1.14 $
  */
 class AppendTask extends Task {
     

@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: XsltFilter.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: XsltFilter.php 420 2008-10-26 19:21:39Z alexeyshockov $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -31,7 +31,7 @@ include_once 'phing/filters/ChainableReader.php';
  * @author    Hans Lellelid <hans@velum.net>
  * @author    Yannick Lecaillez <yl@seasonfive.com>
  * @author    Andreas Aderhold <andi@binarycloud.com>
- * @version   $Revision: 1.1 $
+ * @version   $Revision$
  * @see       FilterReader
  * @package   phing.filters
  */

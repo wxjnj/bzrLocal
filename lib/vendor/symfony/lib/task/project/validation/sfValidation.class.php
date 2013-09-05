@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfValidation.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfValidation.class.php 24610 2009-11-30 22:07:34Z FabianLange $
  */
 abstract class sfValidation extends sfBaseTask
 {

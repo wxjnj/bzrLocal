@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage form
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfFormFieldSchema.class.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version    SVN: $Id: sfFormFieldSchema.class.php 23214 2009-10-20 18:11:23Z Kris.Wallsmith $
  */
 class sfFormFieldSchema extends sfFormField implements ArrayAccess, Iterator, Countable
 {

@@ -4,7 +4,7 @@
 
      This is XHTML, a reformulation of HTML as a modular XML application.
      Copyright 1998-2005 W3C (MIT, ERCIM, Keio), All Rights Reserved.
-     Revision: $Id: xhtml-struct-1.mod,v 1.1 2012/05/04 06:47:26 zhaoy Exp $ SMI
+     Revision: $Id: xhtml-struct-1.mod,v 1.4 2008/10/08 21:02:31 jules Exp $ SMI
 
      This DTD module is identified by the PUBLIC and SYSTEM identifiers:
 

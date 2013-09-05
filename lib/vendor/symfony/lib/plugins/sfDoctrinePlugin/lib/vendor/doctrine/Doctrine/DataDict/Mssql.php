@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Mssql.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: Mssql.php 7660 2010-06-08 18:30:22Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
  * @author      Frank M. Kromann <frank@kromann.info> (PEAR MDB2 Mssql driver)
  * @author      David Coallier <davidc@php.net> (PEAR MDB2 Mssql driver)
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7660 $
  * @link        www.doctrine-project.org
  * @since       1.0
  */

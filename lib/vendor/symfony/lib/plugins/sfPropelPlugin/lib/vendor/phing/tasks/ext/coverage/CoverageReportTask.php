@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: CoverageReportTask.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * $Id: CoverageReportTask.php 426 2008-10-28 19:29:49Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -30,7 +30,7 @@ require_once 'phing/tasks/ext/coverage/CoverageReportTransformer.php';
  * Transforms information in a code coverage database to XML
  *
  * @author Michiel Rook <michiel.rook@gmail.com>
- * @version $Id: CoverageReportTask.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version $Id: CoverageReportTask.php 426 2008-10-28 19:29:49Z mrook $
  * @package phing.tasks.ext.coverage
  * @since 2.1.0
  */

@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage validator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfValidatorDateRange.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfValidatorDateRange.class.php 32810 2011-07-21 05:18:56Z fabien $
  */
 class sfValidatorDateRange extends sfValidatorBase
 {

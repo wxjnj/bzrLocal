@@ -16,7 +16,7 @@
  * @subpackage propel
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     François Zaninotto <francois.zaninotto@symfony-project.com>
- * @version    SVN: $Id: sfPropelDatabaseSchema.class.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version    SVN: $Id: sfPropelDatabaseSchema.class.php 24392 2009-11-25 18:35:39Z FabianLange $
  */
 class sfPropelDatabaseSchema
 {

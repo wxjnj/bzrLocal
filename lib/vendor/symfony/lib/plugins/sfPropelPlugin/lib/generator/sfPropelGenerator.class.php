@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage propel
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPropelGenerator.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * @version    SVN: $Id: sfPropelGenerator.class.php 22943 2009-10-12 12:04:19Z Kris.Wallsmith $
  */
 class sfPropelGenerator extends sfModelGenerator
 {

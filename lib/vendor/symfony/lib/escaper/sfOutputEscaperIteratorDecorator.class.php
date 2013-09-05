@@ -24,7 +24,7 @@
  * @package    symfony
  * @subpackage view
  * @author     Mike Squire <mike@somosis.co.uk>
- * @version    SVN: $Id: sfOutputEscaperIteratorDecorator.class.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version    SVN: $Id: sfOutputEscaperIteratorDecorator.class.php 23436 2009-10-29 16:10:39Z fabien $
  */
 class sfOutputEscaperIteratorDecorator extends sfOutputEscaperObjectDecorator implements Iterator, ArrayAccess
 {

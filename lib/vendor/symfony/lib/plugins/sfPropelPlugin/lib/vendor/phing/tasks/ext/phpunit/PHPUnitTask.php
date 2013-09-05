@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: PHPUnitTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * $Id: PHPUnitTask.php 427 2008-10-28 19:34:15Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -28,7 +28,7 @@ require_once 'phing/util/LogWriter.php';
  * Runs PHPUnit2/3 tests.
  *
  * @author Michiel Rook <michiel.rook@gmail.com>
- * @version $Id: PHPUnitTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version $Id: PHPUnitTask.php 427 2008-10-28 19:34:15Z mrook $
  * @package phing.tasks.ext.phpunit
  * @see BatchTest
  * @since 2.1.0

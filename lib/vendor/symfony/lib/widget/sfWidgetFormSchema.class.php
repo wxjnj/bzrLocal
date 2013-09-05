@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage widget
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfWidgetFormSchema.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfWidgetFormSchema.class.php 26870 2010-01-19 10:34:52Z fabien $
  */
 class sfWidgetFormSchema extends sfWidgetForm implements ArrayAccess
 {

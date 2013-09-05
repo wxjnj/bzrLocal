@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: PropelGraphvizTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: PropelGraphvizTask.php 1262 2009-10-26 20:54:39Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@ include_once 'propel/engine/database/model/AppData.php';
  * A task to generate Graphviz dot files from Propel datamodel.
  *
  * @author     Mark Kimsal
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel.phing
  */
 class PropelGraphvizTask extends AbstractPropelDataModelTask {

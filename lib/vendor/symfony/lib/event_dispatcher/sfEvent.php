@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage event_dispatcher
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfEvent.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version    SVN: $Id: sfEvent.class.php 8698 2008-04-30 16:35:28Z fabien $
  */
 class sfEvent implements ArrayAccess
 {

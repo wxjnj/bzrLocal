@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Builder.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: Builder.php 4593 2008-06-29 03:24:50Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @link        www.doctrine-project.org
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 4593 $
  * @author      Jonathan H. Wage <jwage@mac.com>
  */
 class Doctrine_Builder

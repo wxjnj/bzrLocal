@@ -16,7 +16,7 @@
  * @subpackage doctrine
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineDatabase.class.php,v 1.1 2012/05/04 06:47:45 zhaoy Exp $
+ * @version    SVN: $Id: sfDoctrineDatabase.class.php 28902 2010-03-30 20:57:27Z Jonathan.Wage $
  */
 class sfDoctrineDatabase extends sfDatabase
 {

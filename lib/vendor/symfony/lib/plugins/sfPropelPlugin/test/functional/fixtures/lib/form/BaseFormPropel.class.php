@@ -4,7 +4,7 @@
  * Project form base class.
  *
  * @package    form
- * @version    SVN: $Id: BaseFormPropel.class.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version    SVN: $Id: BaseFormPropel.class.php 6884 2008-01-02 10:32:24Z dwhittle $
  */
 abstract class BaseFormPropel extends sfFormPropel
 {

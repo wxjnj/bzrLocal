@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage plugin
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPluginException.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * @version    SVN: $Id: sfPluginException.class.php 5250 2007-09-24 08:11:50Z fabien $
  */
 class sfPluginException extends sfException
 {

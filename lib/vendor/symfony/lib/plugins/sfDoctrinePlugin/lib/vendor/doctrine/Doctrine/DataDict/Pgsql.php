@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Pgsql.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: Pgsql.php 7641 2010-06-08 14:50:30Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Paul Cooper <pgc@ucecom.com>
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7641 $
  * @link        www.doctrine-project.org
  * @since       1.0
  */

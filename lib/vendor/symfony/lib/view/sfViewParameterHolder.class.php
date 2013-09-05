@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage view
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfViewParameterHolder.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfViewParameterHolder.class.php 21884 2009-09-11 07:38:24Z fabien $
  */
 class sfViewParameterHolder extends sfParameterHolder
 {

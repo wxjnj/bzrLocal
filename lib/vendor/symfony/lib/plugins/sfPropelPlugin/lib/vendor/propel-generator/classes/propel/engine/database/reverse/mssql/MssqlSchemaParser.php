@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: MssqlSchemaParser.php,v 1.1 2012/05/04 06:47:45 zhaoy Exp $
+ *  $Id: MssqlSchemaParser.php 1262 2009-10-26 20:54:39Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -25,7 +25,7 @@ require_once 'propel/engine/database/reverse/BaseSchemaParser.php';
  * Microsoft SQL Server database schema parser.
  *
  * @author     Hans Lellelid <hans@xmpl.org>
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel.engine.database.reverse.mssql
  */
 class MssqlSchemaParser extends BaseSchemaParser {

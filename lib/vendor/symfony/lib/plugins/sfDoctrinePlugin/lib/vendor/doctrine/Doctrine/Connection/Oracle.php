@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Oracle.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ *  $Id: Oracle.php 7664 2010-06-08 19:10:14Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7664 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  */
 class Doctrine_Connection_Oracle extends Doctrine_Connection_Common

@@ -5,7 +5,7 @@
  *
  * @package    form
  * @subpackage category
- * @version    SVN: $Id: CategoryForm.class.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version    SVN: $Id: CategoryForm.class.php 6884 2008-01-02 10:32:24Z dwhittle $
  */
 class CategoryForm extends BaseCategoryForm
 {

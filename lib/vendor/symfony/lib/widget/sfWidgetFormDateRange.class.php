@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage widget
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfWidgetFormDateRange.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfWidgetFormDateRange.class.php 33053 2011-09-20 15:31:20Z fabien $
  */
 class sfWidgetFormDateRange extends sfWidgetForm
 {

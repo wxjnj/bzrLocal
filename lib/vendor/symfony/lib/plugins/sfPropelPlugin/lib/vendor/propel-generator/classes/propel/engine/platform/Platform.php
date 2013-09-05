@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Platform.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: Platform.php 1262 2009-10-26 20:54:39Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -24,7 +24,7 @@
  *
  * @author     Hans Lellelid <hans@xmpl.org> (Propel)
  * @author     Martin Poeschl <mpoeschl@marmot.at> (Torque)
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel.engine.platform
  */
 interface Platform {

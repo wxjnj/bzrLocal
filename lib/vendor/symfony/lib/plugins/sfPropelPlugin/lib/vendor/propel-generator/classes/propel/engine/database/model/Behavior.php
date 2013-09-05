@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Behavior.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ *  $Id: Behavior.php 989 2008-03-11 14:29:30Z heltem $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -25,7 +25,7 @@ include_once 'propel/engine/database/model/Index.php';
  * Information about behaviors of a table.
  *
  * @author     François Zaninotto
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 989 $
  * @package    propel.engine.database.model
  */
 class Behavior extends XMLElement {

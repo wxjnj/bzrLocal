@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: DirectoryScanner.php,v 1.1 2012/05/04 06:47:30 zhaoy Exp $
+ *  $Id: DirectoryScanner.php 277 2007-11-01 01:25:23Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -110,7 +110,7 @@ include_once 'phing/types/selectors/SelectorUtils.php';
  *  @author   Magesh Umasankar, umagesh@rediffmail.com
  *  @author   Andreas Aderhold, andi@binarycloud.com
  *
- *  @version   $Revision: 1.1 $
+ *  @version   $Revision: 1.15 $
  *  @package   phing.util
  */
 class DirectoryScanner implements SelectorScanner {

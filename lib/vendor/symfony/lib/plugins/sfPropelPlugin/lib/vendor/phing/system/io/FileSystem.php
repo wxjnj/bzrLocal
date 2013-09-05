@@ -1,7 +1,7 @@
 <?php
 
 /* 
- *  $Id: FileSystem.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: FileSystem.php 362 2008-03-08 10:07:53Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -35,7 +35,7 @@
  *    
  * @author Charlie Killian <charlie@tizac.com>
  * @author Hans Lellelid <hans@xmpl.org>
- * @version $Revision: 1.1 $
+ * @version $Revision: 1.11 $
  * @package phing.system.io
  */
 abstract class FileSystem {    

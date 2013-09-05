@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage generator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPropelFormGenerator.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * @version    SVN: $Id: sfPropelFormGenerator.class.php 33137 2011-10-18 13:05:25Z fabien $
  */
 class sfPropelFormGenerator extends sfGenerator
 {

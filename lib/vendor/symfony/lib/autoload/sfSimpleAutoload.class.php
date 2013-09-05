@@ -17,7 +17,7 @@
  * @package    symfony
  * @subpackage autoload
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfSimpleAutoload.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfSimpleAutoload.class.php 23205 2009-10-20 13:20:17Z Kris.Wallsmith $
  */
 class sfSimpleAutoload
 {

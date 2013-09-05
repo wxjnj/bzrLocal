@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: PlainPHPUnit2ResultFormatter.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * $Id: PlainPHPUnit2ResultFormatter.php 325 2007-12-20 15:44:58Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -28,7 +28,7 @@ require_once 'phing/tasks/ext/phpunit/phpunit2/PHPUnit2ResultFormatter.php';
  * Prints plain text output of the test to a specified Writer.
  *
  * @author Michiel Rook <michiel.rook@gmail.com>
- * @version $Id: PlainPHPUnit2ResultFormatter.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version $Id: PlainPHPUnit2ResultFormatter.php 325 2007-12-20 15:44:58Z hans $
  * @package phing.tasks.ext.phpunit.phpunit2
  * @since 2.1.0
  */

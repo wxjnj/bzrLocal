@@ -14,7 +14,7 @@ require_once('phing/Phing.php');
  * @package    symfony
  * @subpackage command
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPhing.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfPhing.class.php 24039 2009-11-16 17:52:14Z Kris.Wallsmith $
  */
 class sfPhing extends Phing
 {

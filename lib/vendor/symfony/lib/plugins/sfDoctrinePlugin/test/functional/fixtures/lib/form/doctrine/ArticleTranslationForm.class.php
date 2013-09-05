@@ -5,7 +5,7 @@
  *
  * @package    form
  * @subpackage ArticleTranslation
- * @version    SVN: $Id: ArticleTranslationForm.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: ArticleTranslationForm.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 class ArticleTranslationForm extends BaseArticleTranslationForm
 {

@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Xcache.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ *  $Id: Xcache.php  2007-11-19 14:47:59Z demongloom $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: $
  * @author      Dmitry Bakaleinik (dima@snaiper.net)
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Jonathan H. Wage <jonwage@gmail.com>

@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: BuildPropelGenPEARPackageTask.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: BuildPropelGenPEARPackageTask.php 1750 2010-05-09 12:33:47Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@ include_once 'phing/tasks/ext/pearpackage/Fileset.php';
  *
  * @author     Hans Lellelid <hans@xmpl.org>
  * @package    phing.tasks.ext
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1750 $
  */
 class BuildPropelGenPEARPackageTask extends MatchingTask {
 

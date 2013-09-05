@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfDeprecatedPluginsValidation.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfDeprecatedPluginsValidation.class.php 25410 2009-12-15 15:19:07Z fabien $
  */
 class sfDeprecatedPluginsValidation extends sfValidation
 {

@@ -8,7 +8,7 @@
  * @package    symfony12
  * @subpackage model
  * @author     Your name here
- * @version    SVN: $Id: ModelWithNumberInColumn.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: Builder.php 6820 2009-11-30 17:27:49Z jwage $
  */
 class ModelWithNumberInColumn extends BaseModelWithNumberInColumn
 {

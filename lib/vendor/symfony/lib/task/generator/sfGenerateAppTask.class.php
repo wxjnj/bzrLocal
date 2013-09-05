@@ -16,7 +16,7 @@ require_once(dirname(__FILE__).'/sfGeneratorBaseTask.class.php');
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfGenerateAppTask.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfGenerateAppTask.class.php 24039 2009-11-16 17:52:14Z Kris.Wallsmith $
  */
 class sfGenerateAppTask extends sfGeneratorBaseTask
 {

@@ -16,7 +16,7 @@
  * @subpackage action
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
- * @version    SVN: $Id: sfActions.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfActions.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 abstract class sfActions extends sfAction
 {

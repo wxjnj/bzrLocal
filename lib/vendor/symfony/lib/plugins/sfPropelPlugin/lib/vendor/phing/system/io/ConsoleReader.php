@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: ConsoleReader.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: ConsoleReader.php 325 2007-12-20 15:44:58Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@ include_once 'phing/system/io/Reader.php';
  * 
  * @author Hans Lellelid <hans@xmpl.org>
  * @author Matthew Hershberger <matthewh@lightsp.com>
- * @version $Revision: 1.1 $
+ * @version $Revision: 1.4 $
  * @package phing.system.io
  */
 class ConsoleReader extends Reader {

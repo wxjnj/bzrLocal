@@ -3,10 +3,10 @@
 /**
  * Project filter form base class.
  *
- * @package    nxetd
+ * @package    symfonyStudy
  * @subpackage filter
  * @author     Your name here
- * @version    SVN: $Id: BaseFormFilterDoctrine.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfDoctrineFormFilterBaseTemplate.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 abstract class BaseFormFilterDoctrine extends sfFormFilterDoctrine
 {

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * $Id: AdhocTypedefTask.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * $Id: AdhocTypedefTask.php 144 2007-02-05 15:19:00Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@ require_once 'phing/tasks/system/AdhocTask.php';
  * A class for creating adhoc datatypes in build file.
  * 
  * @author    Hans Lellelid <hans@xmpl.org>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.4 $
  * @package   phing.tasks.system
  */
 class AdhocTypedefTask extends AdhocTask {

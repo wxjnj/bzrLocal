@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Import.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: Import.php 7490 2010-03-29 19:53:27Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -30,7 +30,7 @@
  * @link        www.doctrine-project.org
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7490 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Jukka Hassinen <Jukka.Hassinen@BrainAlliance.com>
  */

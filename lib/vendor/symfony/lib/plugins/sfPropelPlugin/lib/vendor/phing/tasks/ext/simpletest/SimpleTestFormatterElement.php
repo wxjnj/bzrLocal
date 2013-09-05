@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: SimpleTestFormatterElement.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * $Id: SimpleTestFormatterElement.php 357 2008-02-26 08:51:59Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -28,7 +28,7 @@ require_once 'phing/tasks/ext/phpunit/FormatterElement.php';
  * formatter classes for SimpleTest
  *
  * @author Michiel Rook <michiel.rook@gmail.com>
- * @version $Id: SimpleTestFormatterElement.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version $Id: SimpleTestFormatterElement.php 357 2008-02-26 08:51:59Z mrook $
  * @package phing.tasks.ext.simpletest
  * @since 2.2.0
  */

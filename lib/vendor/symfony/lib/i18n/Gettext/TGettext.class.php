@@ -12,7 +12,7 @@
 // | Copyright (c) 2004 Michael Wallner <mike@iworks.at>                  |
 // +----------------------------------------------------------------------+
 //
-// $Id: TGettext.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+// $Id: TGettext.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
 
 /**
  * File::Gettext
@@ -36,7 +36,7 @@
  * #################################################################
  *
  * @author      Michael Wallner <mike@php.net>
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 9856 $
  * @access      public
  * @package System.I18N.core 
  */

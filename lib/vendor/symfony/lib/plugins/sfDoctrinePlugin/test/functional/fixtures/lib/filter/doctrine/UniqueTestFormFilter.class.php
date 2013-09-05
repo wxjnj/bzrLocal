@@ -5,7 +5,7 @@
  *
  * @package    filters
  * @subpackage UniqueTest *
- * @version    SVN: $Id: UniqueTestFormFilter.class.php,v 1.1 2012/05/04 06:47:30 zhaoy Exp $
+ * @version    SVN: $Id: UniqueTestFormFilter.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 class UniqueTestFormFilter extends BaseUniqueTestFormFilter
 {

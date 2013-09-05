@@ -16,7 +16,7 @@
  * @subpackage doctrine
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineCli.class.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version    SVN: $Id: sfDoctrineCli.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 class sfDoctrineCli extends Doctrine_Cli
 {

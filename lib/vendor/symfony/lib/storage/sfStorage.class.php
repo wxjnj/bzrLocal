@@ -16,7 +16,7 @@
  * @subpackage storage
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
- * @version    SVN: $Id: sfStorage.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfStorage.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 abstract class sfStorage
 {

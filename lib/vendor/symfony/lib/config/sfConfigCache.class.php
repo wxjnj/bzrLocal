@@ -18,7 +18,7 @@
  * @subpackage config
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
- * @version    SVN: $Id: sfConfigCache.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfConfigCache.class.php 32639 2011-06-11 13:28:46Z fabien $
  */
 class sfConfigCache
 {

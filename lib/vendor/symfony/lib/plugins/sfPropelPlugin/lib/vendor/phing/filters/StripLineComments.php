@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: StripLineComments.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $  
+ *  $Id: StripLineComments.php 325 2007-12-20 15:44:58Z hans $  
  * 
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -48,7 +48,7 @@ include_once 'phing/filters/ChainableReader.php';
  *
  * @author    <a href="mailto:yl@seasonfive.com">Yannick Lecaillez</a>
  * @author    hans lellelid, hans@velum.net
- * @version   $Revision: 1.1 $ $Date: 2012/05/04 06:47:42 $
+ * @version   $Revision: 1.8 $ $Date: 2007-12-20 16:44:58 +0100 (Thu, 20 Dec 2007) $
  * @access    public
  * @see       BaseParamFilterReader
  * @package   phing.filters

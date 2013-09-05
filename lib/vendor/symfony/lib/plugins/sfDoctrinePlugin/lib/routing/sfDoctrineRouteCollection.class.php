@@ -16,7 +16,7 @@
  * @subpackage doctrine
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineRouteCollection.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfDoctrineRouteCollection.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 class sfDoctrineRouteCollection extends sfObjectRouteCollection
 {

@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: ChownTask.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: ChownTask.php 353 2008-02-06 19:43:18Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@ include_once 'phing/types/FileSet.php';
  * Task that changes the permissions on a file/directory.
  *
  * @author	  Mehmet Emre Yilmaz <mehmety@gmail.com>
- * @version   $Revision: 1.1 $
+ * @version   $Revision$
  * @package   phing.tasks.system
  */
 class ChownTask extends Task {

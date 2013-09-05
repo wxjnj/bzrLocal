@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage form
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfFormFilterPropel.class.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version    SVN: $Id: sfFormFilterPropel.class.php 27748 2010-02-08 18:18:44Z Kris.Wallsmith $
  */
 abstract class sfFormFilterPropel extends sfFormFilter
 {

@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage exception
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfError404Exception.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * @version    SVN: $Id: sfError404Exception.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 class sfError404Exception extends sfException
 {

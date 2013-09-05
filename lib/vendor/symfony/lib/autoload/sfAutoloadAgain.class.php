@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage autoload
  * @author     Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version    SVN: $Id: sfAutoloadAgain.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfAutoloadAgain.class.php 33561 2012-10-18 11:42:28Z fabien $
  */
 class sfAutoloadAgain
 {
@@ -69,7 +69,7 @@ class sfAutoloadAgain
     {
       foreach ($autoloads as $position => $autoload)
       {
-        if ($this === $autoload[0])
+        if (is_array($autoload) && $this === $autoload[0])
         {
           break;
         }

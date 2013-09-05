@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: CapsuleTask.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: CapsuleTask.php 144 2007-02-05 15:19:00Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -31,7 +31,7 @@ include_once 'phing/util/StringHelper.php';
  * This is based on the interface to TexenTask from Apache's Velocity engine. 
  *
  * @author    Hans Lellelid <hans@xmpl.org>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.17 $
  * @package   phing.tasks.ext
  */
 class CapsuleTask extends Task {

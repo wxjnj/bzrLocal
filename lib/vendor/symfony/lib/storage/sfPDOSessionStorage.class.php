@@ -19,7 +19,7 @@
  * @author     Mathew Toth <developer@poetryleague.com>
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
- * @version    SVN: $Id: sfPDOSessionStorage.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfPDOSessionStorage.class.php 33545 2012-10-05 10:49:45Z fabien $
  */
 class sfPDOSessionStorage extends sfDatabaseSessionStorage
 {
@@ -115,7 +115,7 @@ class sfPDOSessionStorage extends sfDatabaseSessionStorage
       $sessionRows = $stmt->fetchAll(PDO::FETCH_NUM);
       if (count($sessionRows) == 1)
       {
-        return $sessionRows[0][0];
+        return is_resource($sessionRows[0][0]) ? stream_get_contents($sessionRows[0][0]) : $sessionRows[0][0];
       }
       else
       {

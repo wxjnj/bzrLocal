@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: TidyFilter.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $  
+ *  $Id: TidyFilter.php 123 2006-09-14 20:19:08Z mrook $  
  * 
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -35,7 +35,7 @@ include_once 'phing/filters/ChainableReader.php';
  * </pre>
  * 
  * @author Hans Lellelid <hans@xmpl.org>
- * @version   $Revision: 1.1 $ $Date: 2012/05/04 06:47:42 $
+ * @version   $Revision: 1.2 $ $Date: 2006-09-14 22:19:08 +0200 (Thu, 14 Sep 2006) $
  * @package   phing.filters
  */
 class TidyFilter extends BaseParamFilterReader implements ChainableReader {

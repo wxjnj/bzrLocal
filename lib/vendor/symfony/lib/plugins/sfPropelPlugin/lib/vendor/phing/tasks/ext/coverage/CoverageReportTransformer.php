@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: CoverageReportTransformer.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * $Id: CoverageReportTransformer.php 325 2007-12-20 15:44:58Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -29,7 +29,7 @@ require_once 'phing/util/ExtendedFileStream.php';
  * The default transformation generates an html report in framed style.
  *
  * @author Michiel Rook <michiel.rook@gmail.com>
- * @version $Id: CoverageReportTransformer.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version $Id: CoverageReportTransformer.php 325 2007-12-20 15:44:58Z hans $
  * @package phing.tasks.ext.coverage
  * @since 2.1.0
  */

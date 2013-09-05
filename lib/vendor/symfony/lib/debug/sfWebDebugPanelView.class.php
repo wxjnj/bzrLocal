@@ -14,7 +14,7 @@
  * @package     symfony
  * @subpackage  debug
  * @author      Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version     SVN: $Id: sfWebDebugPanelView.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version     SVN: $Id: sfWebDebugPanelView.class.php 24069 2009-11-17 06:59:01Z Kris.Wallsmith $
  */
 class sfWebDebugPanelView extends sfWebDebugPanel
 {

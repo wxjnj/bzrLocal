@@ -18,7 +18,7 @@ require_once(dirname(__FILE__).'/sfDoctrineBaseTask.class.php');
  * @subpackage doctrine
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineInsertSqlTask.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfDoctrineInsertSqlTask.class.php 27942 2010-02-12 14:05:53Z Kris.Wallsmith $
  */
 class sfDoctrineInsertSqlTask extends sfDoctrineBaseTask
 {

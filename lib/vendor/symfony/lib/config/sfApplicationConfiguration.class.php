@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage config
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfApplicationConfiguration.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfApplicationConfiguration.class.php 33214 2011-11-19 13:47:24Z fabien $
  */
 abstract class sfApplicationConfiguration extends ProjectConfiguration
 {

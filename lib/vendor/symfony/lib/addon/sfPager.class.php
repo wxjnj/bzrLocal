@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage addon
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPager.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfPager.class.php 27747 2010-02-08 18:02:19Z Kris.Wallsmith $
  */
 abstract class sfPager implements Iterator, Countable
 {

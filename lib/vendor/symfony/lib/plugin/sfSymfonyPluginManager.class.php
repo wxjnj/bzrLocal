@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage plugin
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfSymfonyPluginManager.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * @version    SVN: $Id: sfSymfonyPluginManager.class.php 25218 2009-12-10 20:06:45Z Jonathan.Wage $
  */
 class sfSymfonyPluginManager extends sfPluginManager
 {

@@ -19,7 +19,7 @@
  * @package    symfony
  * @subpackage util
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfDomCssSelector.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfDomCssSelector.class.php 31893 2011-01-24 18:11:45Z fabien $
  */
 class sfDomCssSelector implements Countable, Iterator
 {

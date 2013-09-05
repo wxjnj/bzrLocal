@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage mailer
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfMailer.class.php,v 1.1 2012/05/04 06:47:45 zhaoy Exp $
+ * @version    SVN: $Id: sfMailer.class.php 28841 2010-03-29 08:13:57Z fabien $
  */
 class sfMailer extends Swift_Mailer
 {

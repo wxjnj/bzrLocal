@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfTestCoverageTask.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfTestCoverageTask.class.php 25036 2009-12-07 19:41:58Z Kris.Wallsmith $
  */
 class sfTestCoverageTask extends sfBaseTask
 {

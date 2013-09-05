@@ -5,7 +5,7 @@
  *
  * @package    form
  * @subpackage article
- * @version    SVN: $Id: ArticleForm.class.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version    SVN: $Id: ArticleForm.class.php 14010 2008-12-13 14:27:57Z Kris.Wallsmith $
  */
 class ArticleForm extends BaseArticleForm
 {

@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage routing
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPatternRouting.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfPatternRouting.class.php 32845 2011-07-28 11:50:48Z fabien $
  */
 class sfPatternRouting extends sfRouting
 {

@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: FilterChain.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: FilterChain.php 247 2007-10-16 21:09:37Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -42,7 +42,7 @@ include_once 'phing/filters/XsltFilter.php';
  * FilterChain may contain a chained set of filter readers.
  *
  * @author    Yannick Lecaillez <yl@seasonfive.com>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.11 $
  * @package   phing.types
  */
 class FilterChain extends DataType {

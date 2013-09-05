@@ -1,6 +1,6 @@
 <?php
 /*
- * $Id: TargetHandler.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * $Id: TargetHandler.php 123 2006-09-14 20:19:08Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -29,7 +29,7 @@ require_once 'phing/parser/AbstractHandler.php';
  *
  * @author    Andreas Aderhold <andi@binarycloud.com>
  * @copyright  2001,2002 THYRELL. All rights reserved
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.10 $
  * @package   phing.parser
  */
 class TargetHandler extends AbstractHandler {

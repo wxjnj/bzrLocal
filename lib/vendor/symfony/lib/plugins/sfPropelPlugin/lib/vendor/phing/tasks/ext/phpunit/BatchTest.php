@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: BatchTest.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * $Id: BatchTest.php 350 2008-02-06 15:06:57Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@ require_once 'phing/types/FileSet.php';
  * all subclasses of PHPUnit(2)_Framework_TestCase / PHPUnit(2)_Framework_TestSuite.
  *
  * @author Michiel Rook <michiel.rook@gmail.com>
- * @version $Id: BatchTest.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version $Id: BatchTest.php 350 2008-02-06 15:06:57Z mrook $
  * @package phing.tasks.ext.phpunit
  * @since 2.1.0
  */

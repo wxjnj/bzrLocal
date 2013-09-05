@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: SvnCheckoutTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * $Id: SvnCheckoutTask.php 325 2007-12-20 15:44:58Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@ require_once 'phing/tasks/ext/svn/SvnBaseTask.php';
  * Checks out a repository to a local directory
  *
  * @author Andrew Eddie <andrew.eddie@jamboworks.com>
- * @version $Id: SvnCheckoutTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version $Id: SvnCheckoutTask.php 325 2007-12-20 15:44:58Z hans $
  * @package phing.tasks.ext.svn
  * @since 2.3.0
  */

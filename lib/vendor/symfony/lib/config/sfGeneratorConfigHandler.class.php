@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage config
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfGeneratorConfigHandler.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfGeneratorConfigHandler.class.php 28366 2010-03-03 14:46:07Z fabien $
  */
 class sfGeneratorConfigHandler extends sfYamlConfigHandler
 {

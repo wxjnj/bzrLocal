@@ -13,7 +13,7 @@
  * {@link http://prado.sourceforge.net/}
  *
  * @author     Wei Zhuo <weizhuo[at]gmail[dot]com>
- * @version    $Id: sfChoiceFormat.class.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version    $Id: sfChoiceFormat.class.php 33251 2011-12-12 16:30:59Z fabien $
  * @package    symfony
  * @subpackage i18n
  */

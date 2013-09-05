@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage validator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfValidatedFile.class.php,v 1.2 2013/06/24 06:09:11 gef Exp $
+ * @version    SVN: $Id: sfValidatedFile.class.php 30915 2010-09-15 17:10:37Z Kris.Wallsmith $
  */
 class sfValidatedFile
 {
@@ -600,7 +600,6 @@ class sfValidatedFile
       'text/comma-separated-values' => 'csv',
       'text/css' => 'css',
       'text/html' => 'html',
-      'text/html' => 'docx',//自己添加，可删除
       'text/plain' => 'txt',
       'text/prs.fallenstein.rst' => 'rst',
       'text/richtext' => 'rtx',

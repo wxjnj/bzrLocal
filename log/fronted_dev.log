@@ -1,0 +1,44 @@
+Sep 05 13:53:21 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Sep 05 13:53:21 symfony [info] {myUser} Automatic user logout due to timeout
+Sep 05 13:53:21 symfony [info] {myUser} User is not authenticated
+Sep 05 13:53:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 05 13:53:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 05 13:53:22 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Sep 05 13:53:22 symfony [info] {sfPHPView} Render "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\modules/home/templates/indexSuccess.php"
+Sep 05 13:53:22 symfony [info] {sfPHPView} Decorate content with "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\templates/layout.php"
+Sep 05 13:53:22 symfony [info] {sfPHPView} Render "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\templates/layout.php"
+Sep 05 13:53:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 05 13:53:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 05 13:53:22 symfony [info] {sfWebDebugLogger} Configuration 265.62 ms (9)
+Sep 05 13:53:22 symfony [info] {sfWebDebugLogger} Factories 812.50 ms (1)
+Sep 05 13:53:22 symfony [info] {sfWebDebugLogger} Action "home/index" 0.00 ms (1)
+Sep 05 13:53:22 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 46.88 ms (1)
+Sep 05 13:53:22 symfony [info] {sfWebResponse} Send content (28681 o)
+Sep 05 13:57:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Sep 05 13:57:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 05 13:57:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 05 13:57:50 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Sep 05 13:57:50 symfony [info] {sfPHPView} Render "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\modules/home/templates/indexSuccess.php"
+Sep 05 13:57:50 symfony [info] {sfPHPView} Decorate content with "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\templates/layout.php"
+Sep 05 13:57:50 symfony [info] {sfPHPView} Render "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\templates/layout.php"
+Sep 05 13:57:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 05 13:57:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 05 13:57:50 symfony [info] {sfWebDebugLogger} Configuration 0.00 ms (9)
+Sep 05 13:57:50 symfony [info] {sfWebDebugLogger} Factories 31.25 ms (1)
+Sep 05 13:57:50 symfony [info] {sfWebDebugLogger} Action "home/index" 0.00 ms (1)
+Sep 05 13:57:50 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 15.62 ms (1)
+Sep 05 13:57:50 symfony [info] {sfWebResponse} Send content (28002 o)
+Sep 05 14:06:35 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Sep 05 14:06:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 05 14:06:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 05 14:06:35 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Sep 05 14:06:35 symfony [info] {sfPHPView} Render "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\modules/home/templates/indexSuccess.php"
+Sep 05 14:06:35 symfony [info] {sfPHPView} Decorate content with "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\templates/layout.php"
+Sep 05 14:06:35 symfony [info] {sfPHPView} Render "F:\workspace\php\bzrLocal\bzrLocal\apps\fronted\templates/layout.php"
+Sep 05 14:06:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 05 14:06:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 05 14:06:35 symfony [info] {sfWebDebugLogger} Configuration 0.00 ms (9)
+Sep 05 14:06:35 symfony [info] {sfWebDebugLogger} Factories 62.50 ms (1)
+Sep 05 14:06:35 symfony [info] {sfWebDebugLogger} Action "home/index" 0.00 ms (1)
+Sep 05 14:06:35 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 15.62 ms (1)
+Sep 05 14:06:35 symfony [info] {sfWebResponse} Send content (28001 o)

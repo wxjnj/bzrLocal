@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage config
  * @author     Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version    SVN: $Id: sfPluginConfigurationGeneric.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfPluginConfigurationGeneric.class.php 12503 2008-10-31 16:58:52Z Kris.Wallsmith $
  */
 class sfPluginConfigurationGeneric extends sfPluginConfiguration
 {

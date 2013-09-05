@@ -1,6 +1,6 @@
 <?php
 /*
- * $Id: NoBannerLogger.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * $Id: NoBannerLogger.php 227 2007-08-28 02:17:00Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@ require_once 'phing/listener/DefaultLogger.php';
  *
  *  @author    Andreas Aderhold <andi@binarycloud.com>
  *  @copyright � 2001,2002 THYRELL. All rights reserved
- *  @version   $Revision: 1.1 $ $Date: 2012/05/04 06:47:43 $
+ *  @version   $Revision: 1.4 $ $Date: 2007-08-28 04:17:00 +0200 (Tue, 28 Aug 2007) $
  *  @package   phing.listener
  */
 class NoBannerLogger extends DefaultLogger {

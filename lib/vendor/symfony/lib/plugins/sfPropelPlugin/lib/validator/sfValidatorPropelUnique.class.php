@@ -18,7 +18,7 @@
  * @package    symfony
  * @subpackage validator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfValidatorPropelUnique.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfValidatorPropelUnique.class.php 27940 2010-02-12 13:31:30Z Kris.Wallsmith $
  */
 class sfValidatorPropelUnique extends sfValidatorSchema
 {

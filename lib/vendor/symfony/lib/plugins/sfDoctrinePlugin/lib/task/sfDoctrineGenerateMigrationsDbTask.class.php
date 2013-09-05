@@ -18,7 +18,7 @@ require_once(dirname(__FILE__).'/sfDoctrineBaseTask.class.php');
  * @subpackage doctrine
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineGenerateMigrationsDbTask.class.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version    SVN: $Id: sfDoctrineGenerateMigrationsDbTask.class.php 23922 2009-11-14 14:58:38Z fabien $
  */
 class sfDoctrineGenerateMigrationsDbTask extends sfDoctrineBaseTask
 {

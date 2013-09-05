@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: PhingTask.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $  
+ *  $Id: PhingTask.php 303 2007-11-08 20:39:33Z hans $  
  * 
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -41,7 +41,7 @@ include_once 'phing/tasks/system/PropertyTask.php';
  * </pre>
  * 
  * @author    Hans Lellelid <hans@xmpl.org>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.20 $
  * @package   phing.tasks.system
  */
 class PhingTask extends Task {

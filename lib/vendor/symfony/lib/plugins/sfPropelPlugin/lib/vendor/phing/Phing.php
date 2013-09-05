@@ -1,6 +1,6 @@
 <?php
 /*
- * $Id: Phing.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * $Id: Phing.php 385 2008-08-19 18:09:17Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -58,7 +58,7 @@ include_once 'phing/system/util/Register.php';
  *
  * @author    Andreas Aderhold <andi@binarycloud.com>
  * @author    Hans Lellelid <hans@xmpl.org>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.51 $
  * @package   phing
  */
 class Phing {

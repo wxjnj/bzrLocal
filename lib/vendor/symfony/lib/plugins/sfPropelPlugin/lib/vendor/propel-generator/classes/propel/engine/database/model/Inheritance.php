@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: Inheritance.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ *  $Id: Inheritance.php 1262 2009-10-26 20:54:39Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@ require_once 'propel/engine/database/model/XMLElement.php';
  *
  * @author     Hans Lellelid <hans@xmpl.org> (Propel)
  * @author     John McNally <jmcnally@collab.net> (Torque)
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel.engine.database.model
  */
 class Inheritance extends XMLElement {

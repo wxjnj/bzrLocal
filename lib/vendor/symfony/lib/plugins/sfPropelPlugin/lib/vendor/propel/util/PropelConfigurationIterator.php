@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: PropelConfigurationIterator.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ *  $Id: PropelConfigurationIterator.php 1262 2009-10-26 20:54:39Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -24,7 +24,7 @@
  * build a flat array from nesting configuration arrays.
  *
  * @author     Veikko Mäkinen <veikko@veikko.fi>
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1262 $
  * @package    propel
  */
 class PropelConfigurationIterator extends RecursiveIteratorIterator

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * $Id: TaskdefTask.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * $Id: TaskdefTask.php 144 2007-02-05 15:19:00Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -42,7 +42,7 @@ require_once 'phing/Task.php';
  *      (right now these are just too simple to really justify creating an abstract class)
  * 
  * @author    Hans Lellelid <hans@xmpl.org>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.11 $
  * @package   phing.tasks.system
  */
 class TaskdefTask extends Task {

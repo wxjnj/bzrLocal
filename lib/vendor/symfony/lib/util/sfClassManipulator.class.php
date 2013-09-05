@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage util
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfClassManipulator.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: sfClassManipulator.class.php 25063 2009-12-08 06:02:07Z Kris.Wallsmith $
  */
 class sfClassManipulator
 {

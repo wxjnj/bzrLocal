@@ -6,7 +6,7 @@
  * @package    test
  * @subpackage attachment
  * @author     Your name here
- * @version    SVN: $Id: actions.class.php,v 1.1 2012/05/04 06:47:44 zhaoy Exp $
+ * @version    SVN: $Id: actions.class.php 16987 2009-04-04 14:16:46Z fabien $
  */
 class attachmentActions extends sfActions
 {

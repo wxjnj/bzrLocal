@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: ExitTask.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: ExitTask.php 43 2006-03-10 14:31:51Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@ require_once 'phing/Task.php';
  *
  * @author    Hans Lellelid <hans@xmpl.org> (Phing)
  * @author    Nico Seessle <nico@seessle.de> (Ant)
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.7 $
  * @package   phing.tasks.system
  */
 class ExitTask extends Task { 

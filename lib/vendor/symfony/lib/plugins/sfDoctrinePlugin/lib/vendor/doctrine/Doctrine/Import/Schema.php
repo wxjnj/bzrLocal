@@ -1,6 +1,6 @@
 <?php
 /*
- * $Id: Schema.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * $Id: Schema.php 1838 2007-06-26 00:58:21Z nicobn $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -28,7 +28,7 @@
  * @subpackage  Import
  * @link        www.doctrine-project.org
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 1838 $
  * @author      Nicolas Bérard-Nault <nicobn@gmail.com>
  * @author      Jonathan H. Wage <jonwage@gmail.com>
  */

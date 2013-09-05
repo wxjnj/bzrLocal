@@ -16,7 +16,7 @@ require_once 'PEAR/REST.php';
  * @package    symfony
  * @subpackage plugin
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPearRest.class.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * @version    SVN: $Id: sfPearRest.class.php 10677 2008-08-05 19:11:48Z fabien $
  */
 class sfPearRest extends PEAR_REST
 {

@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: AutoAddPkBehavior.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: AutoAddPkBehavior.php 1268 2009-10-30 22:51:21Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -24,7 +24,7 @@
  * Adds a primary key to models defined without one
  *
  * @author     François Zaninotto
- * @version    $Revision: 1.1 $
+ * @version    $Revision: 1066 $
  * @package    propel.engine.behavior
  */
 class AutoAddPkBehavior extends Behavior

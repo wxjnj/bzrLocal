@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Abstract.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: Hydrate.php 3192 2007-11-19 17:55:23Z romanb $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -27,7 +27,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 3192 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  */
 abstract class Doctrine_Hydrator_Abstract extends Doctrine_Locator_Injectable

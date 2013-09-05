@@ -14,7 +14,7 @@
  * @package     sfPropelPlugin
  * @subpackage  behavior
  * @author      Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version     SVN: $Id: SfPropelBehaviorTimestampable.php,v 1.1 2012/05/04 06:47:28 zhaoy Exp $
+ * @version     SVN: $Id: SfPropelBehaviorTimestampable.php 23310 2009-10-24 15:27:41Z Kris.Wallsmith $
  */
 class SfPropelBehaviorTimestampable extends SfPropelBehaviorBase
 {

@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: ScpSendTask.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * $Id: ScpSendTask.php 325 2007-12-20 15:44:58Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -25,7 +25,7 @@ require_once 'phing/Task.php';
  * SCPs a File to a remote server 
  *
  * @author Andrew Eddie <andrew.eddie@jamboworks.com> 
- * @version $Id: ScpSendTask.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version $Id: ScpSendTask.php 325 2007-12-20 15:44:58Z hans $
  * @package phing.tasks.ext
  * @since 2.3.0
  */

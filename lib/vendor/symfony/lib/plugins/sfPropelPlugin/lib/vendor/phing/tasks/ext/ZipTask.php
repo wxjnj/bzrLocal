@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: ZipTask.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: ZipTask.php 240 2007-09-25 20:43:37Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -30,7 +30,7 @@ include_once 'phing/lib/Zip.php';
  * and included with Phing).
  *
  * @author    Michiel Rook <michiel.rook@gmail.com>
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.2 $
  * @package   phing.tasks.ext
  * @since     2.1.0
  */

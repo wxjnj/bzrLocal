@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Event.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id$
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -28,7 +28,7 @@
  * @subpackage  Event
  * @link        www.doctrine-project.org
  * @since       1.0
- * @version     $Revision: 1.1 $
+ * @version     $Revision$
  */
 class Doctrine_Event
 {

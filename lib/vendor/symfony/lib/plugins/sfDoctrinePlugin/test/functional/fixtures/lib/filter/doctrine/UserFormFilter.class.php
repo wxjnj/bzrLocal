@@ -5,7 +5,7 @@
  *
  * @package    filters
  * @subpackage User *
- * @version    SVN: $Id: UserFormFilter.class.php,v 1.1 2012/05/04 06:47:30 zhaoy Exp $
+ * @version    SVN: $Id: UserFormFilter.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 class UserFormFilter extends BaseUserFormFilter
 {

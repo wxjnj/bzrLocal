@@ -6,7 +6,7 @@
  * @package    symfony12
  * @subpackage form
  * @author     Your name here
- * @version    SVN: $Id: SettingForm.class.php,v 1.1 2012/05/04 06:47:45 zhaoy Exp $
+ * @version    SVN: $Id: SettingForm.class.php 28974 2010-04-04 22:59:54Z Kris.Wallsmith $
  */
 class SettingForm extends PluginSettingForm
 {

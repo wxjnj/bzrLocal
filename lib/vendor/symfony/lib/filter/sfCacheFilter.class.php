@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage filter
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfCacheFilter.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfCacheFilter.class.php 28625 2010-03-19 19:00:53Z Kris.Wallsmith $
  */
 class sfCacheFilter extends sfFilter
 {

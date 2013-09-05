@@ -1,6 +1,6 @@
 <?php
 /*
- * $Id: UpToDateTask.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ * $Id: UpToDateTask.php 144 2007-02-05 15:19:00Z hans $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -33,7 +33,7 @@ include_once 'phing/mappers/MergeMapper.php';
  * @author    William Ferguson <williamf@mincom.com> (Ant)
  * @author    Hiroaki Nakamura <hnakamur@mc.neweb.ne.jp> (Ant)
  * @author    Stefan Bodewig <stefan.bodewig@epost.de> (Ant)
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.6 $
  * @package   phing.tasks.system
  */
 class UpToDateTask extends Task implements Condition {

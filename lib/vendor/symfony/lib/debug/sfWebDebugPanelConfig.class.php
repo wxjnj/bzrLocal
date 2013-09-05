@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage debug
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfWebDebugPanelConfig.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfWebDebugPanelConfig.class.php 19774 2009-07-01 09:46:42Z Kris.Wallsmith $
  */
 class sfWebDebugPanelConfig extends sfWebDebugPanel
 {

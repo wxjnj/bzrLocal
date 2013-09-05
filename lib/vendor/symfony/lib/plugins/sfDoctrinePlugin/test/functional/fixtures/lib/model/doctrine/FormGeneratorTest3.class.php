@@ -8,7 +8,7 @@
  * @package    symfony12
  * @subpackage model
  * @author     Your name here
- * @version    SVN: $Id: FormGeneratorTest3.class.php,v 1.1 2012/05/04 06:47:27 zhaoy Exp $
+ * @version    SVN: $Id: Builder.php 6716 2009-11-12 19:26:28Z jwage $
  */
 class FormGeneratorTest3 extends BaseFormGeneratorTest3
 {

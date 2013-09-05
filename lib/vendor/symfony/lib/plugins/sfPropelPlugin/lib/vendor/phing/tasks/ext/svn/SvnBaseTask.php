@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: SvnBaseTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: SvnBaseTask.php 329 2007-12-22 17:12:59Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -26,7 +26,7 @@ include_once 'phing/Task.php';
  *
  * @author Michiel Rook <michiel.rook@gmail.com>
  * @author Andrew Eddie <andrew.eddie@jamboworks.com> 
- * @version $Id: SvnBaseTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ * @version $Id: SvnBaseTask.php 329 2007-12-22 17:12:59Z mrook $
  * @package phing.tasks.ext.svn
  * @see VersionControl_SVN
  * @since 2.2.0

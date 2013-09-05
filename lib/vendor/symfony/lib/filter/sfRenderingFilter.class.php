@@ -15,7 +15,7 @@
  * @package    symfony
  * @subpackage filter
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfRenderingFilter.class.php,v 1.1 2012/05/04 06:47:43 zhaoy Exp $
+ * @version    SVN: $Id: sfRenderingFilter.class.php 29524 2010-05-19 12:55:30Z fabien $
  */
 class sfRenderingFilter extends sfFilter
 {

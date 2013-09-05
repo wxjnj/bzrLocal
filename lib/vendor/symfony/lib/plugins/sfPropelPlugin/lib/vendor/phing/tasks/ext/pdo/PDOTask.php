@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: PDOTask.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ *  $Id: CreoleTask.php 59 2006-04-28 14:49:47Z mrook $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -31,7 +31,7 @@ include_once 'phing/types/Reference.php';
  * @author    Jeff Martin <jeff@custommonkey.org> (Ant)
  * @author    Michael McCallum <gholam@xtra.co.nz> (Ant)
  * @author    Tim Stephenson <tim.stephenson@sybase.com> (Ant)
- * @version   $Revision: 1.1 $
+ * @version   $Revision: 1.13 $
  * @package   phing.tasks.system
  */
 abstract class PDOTask extends Task {

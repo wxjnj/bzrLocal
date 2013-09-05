@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage config
  * @author     Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version    SVN: $Id: sfPluginConfiguration.class.php,v 1.1 2012/05/04 06:47:42 zhaoy Exp $
+ * @version    SVN: $Id: sfPluginConfiguration.class.php 23822 2009-11-12 15:13:48Z Kris.Wallsmith $
  */
 abstract class sfPluginConfiguration
 {

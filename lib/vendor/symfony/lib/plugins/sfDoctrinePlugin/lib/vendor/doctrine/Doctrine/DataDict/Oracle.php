@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Oracle.php,v 1.1 2012/05/04 06:47:26 zhaoy Exp $
+ *  $Id: Oracle.php 7490 2010-03-29 19:53:27Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -24,7 +24,7 @@
  * @subpackage  DataDict
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
- * @version     $Revision: 1.1 $
+ * @version     $Revision: 7490 $
  * @link        www.doctrine-project.org
  * @since       1.0
  */

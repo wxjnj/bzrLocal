@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  $Id: AbstractPropelDataModelTask.php,v 1.1 2012/05/04 06:47:29 zhaoy Exp $
+ *  $Id: AbstractPropelDataModelTask.php 1684 2010-04-16 20:56:45Z francois $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
